@@ -1,4 +1,4 @@
-# day6
+Digital visiting card made with flutter
 
 A new Flutter project.
 
